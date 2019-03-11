@@ -1,0 +1,50 @@
+   1  git add*
+    2  git add *
+    3  git commit -m "se sube el LAb0"
+    4  git pull
+    5  git add
+    6  Desktop
+    7  git add.
+    8  git add
+    9  get clone
+   10  get clone https://github.com/FcaCanales/L0.git
+   11  get clone https://github.com/FcaCanales/L0.git
+   12  cd Desktop
+   13  cd
+   14  get clone https://github.com/FcaCanales/L0.git
+   15  git clone https://github.com/FcaCanales/L0.git
+   16  git add.
+   17  git add .
+   18  git commit
+   19  get add .
+   20  git add .
+   21  git add .
+   22  git init
+   23  git add README.md
+   24  git commit -m "Lab0"
+   25  git remote add origin https://github.com/FcaCanales/L0.git
+   26  git push -u origin master
+   27  git push -u
+   28  git remote
+   29  git push -u origin
+   30  git push -u
+   31  git remote add origin https://github.com/FcaCanales/L0.git
+   32  git remote add origin https://github.com/FcaCanales/L0.git
+   33  git init
+   34  git add lab0.txt
+   35  git commit -m "Archivo de texto Lab0"
+   36  git remote add origin https://github.com/FcaCanales/L0.git
+   37  git push -u origin master
+   38  git remote add origin https://github.com/FcaCanales/L0.git
+   39  git push -u origin master
+   40  git init
+   41  git add *
+   42  git commit -m "lab 0"
+   43  git push -u origin master
+   44  git add *
+   45  git commit -m "lab 0"
+   46  git push -u origin master
+   47  git remote add origin https://github.com/FcaCanales/L0.git
+   48  git push -u origin master
+   49  history
+   50  history
